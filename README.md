@@ -11,3 +11,4 @@
   - 달력 (CustomerCalendar)
   - 구구단(GuGuDan)
   - 금액 화폐 계산(WhileEx)
+  - 로또 번호 추첨(LottoGenerator)
